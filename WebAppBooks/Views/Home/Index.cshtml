@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">📚 Welcome to WebAppBooks</h1>
+    <p class="lead">
+        This is a simple ASP.NET Core MVC application where you can manage a list of books.
+    </p>
+</div>
+
+<hr />
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">✅ Features Implemented</h5>
+                <ul class="list-unstyled">
+                    <li>➕ Create new books</li>
+                    <li>✏️ Edit book details</li>
+                    <li>🗑️ Delete books</li>
+                    <li>📖 List all books</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">🔒 Validations</h5>
+                <ul class="list-unstyled">
+                    <li>⚠️ Title and Author are required</li>
+                    <li>📌 ISBN required with max length</li>
+                    <li>📅 Publication date cannot be in the future</li>
+                    <li>🚫 No duplicate books with same Title + Author</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-5">
+    <a asp-controller="Books" asp-action="Index" class="btn btn-primary btn-lg">
+        📚 Go to Books Management
+    </a>
+</div>

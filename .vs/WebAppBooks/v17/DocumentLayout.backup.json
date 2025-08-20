@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|c:\\users\\ingma\\source\\repos\\webappbooks\\webappbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FA7245-73A8-4CE3-97D7-5BA441DF7C13}|WebAppBooks\\WebAppBooks.csproj|solutionrelative:webappbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T20:14:35.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T20:15:39.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "WebAppBooks\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "WebAppBooks\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:10:02.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:35:17.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:30:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:17:42.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:15:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppBooks\\Program.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Program.cs",
+              "RelativeToolTip": "WebAppBooks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:16:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppBooks\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "WebAppBooks\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-20T21:31:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebAppBooks\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ingMa\\source\\repos\\WebAppBooks\\WebAppBooks\\Models\\Book.cs",
+              "RelativeToolTip": "WebAppBooks\\Models\\Book.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:09:29.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebAppBooks.Models.Book>
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h2 class="mb-4">Books</h2>
+
+@if (TempData["ok"] != null)
+{
+    <div class="alert alert-success">@TempData["ok"]</div>
+}
+
+<p>
+    <a class="btn btn-primary" asp-action="Create">Add New Book</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.First().Title)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Author)</th>
+            <th>@Html.DisplayNameFor(m => m.First().Isbn)</th>
+            <th>@Html.DisplayNameFor(m => m.First().PublicationDate)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Author</td>
+                <td>@item.Isbn</td>
+                <td>@item.PublicationDate?.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

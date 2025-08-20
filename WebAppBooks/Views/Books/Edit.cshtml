@@ -1,0 +1,43 @@
+﻿@model WebAppBooks.Models.Book
+
+@{
+    ViewBag.Title = "Edit Book";
+}
+
+<h2>Edit Book</h2>
+
+@using (Html.BeginForm("Edit", "Books", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(m => m.Id)
+
+    <!-- 🔹 Esto muestra errores generales como duplicado -->
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Title)
+        @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Title, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Author)
+        @Html.TextBoxFor(m => m.Author, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Author, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Isbn)
+        @Html.TextBoxFor(m => m.Isbn, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Isbn, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.PublicationDate)
+        @Html.TextBoxFor(m => m.PublicationDate, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(m => m.PublicationDate, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save changes</button>
+    @Html.ActionLink("Back to list", "Index", null, new { @class = "btn btn-secondary" })
+}
