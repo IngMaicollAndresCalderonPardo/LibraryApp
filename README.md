@@ -4,10 +4,12 @@ A simple **ASP.NET Core MVC** application with an in-memory CRUD and sample **SQ
 
 ## Features
 ### ASP.NET Core MVC
-- Basic CRUD operations (Create, Read, Update, Delete).
-- In-memory data storage (no real database connection).
+- Full CRUD operations for Books (Title, Author, ISBN, Publication Date).
+- Unique validation: no duplicate Title + Author.
+- Client-side and server-side validation.
+- SQL Server database scripts for setup (`bd/` folder).
+- Referential integrity with a Users table (ON DELETE CASCADE).
 - Clean Bootstrap-based UI.
-- Server-side and client-side validation.
 
 ### Database Scripts (`bd/` folder)
 - `01_create_tables.sql`: shows how to create the **Users** and **Publications** tables, including:
